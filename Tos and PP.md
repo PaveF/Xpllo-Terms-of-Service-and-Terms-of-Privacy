@@ -32,7 +32,7 @@ Blacklist (remove) users or servers that violate these terms or Discord’s Comm
 5. Limitation of Liability
 The bot developer is not responsible for any damages, data loss, or server disputes arising from the use of Xplio. (It's the host's fault)
 
-Privacy Policy
+# Privacy Policy
 Effective Date: 9/1/2026
 
 1. Data We Collect
