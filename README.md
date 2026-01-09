@@ -1,1 +1,0 @@
-# Xpllo-Terms-of-Service-and-Terms-of-Privacy
