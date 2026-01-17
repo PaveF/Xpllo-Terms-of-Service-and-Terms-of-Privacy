@@ -1,4 +1,4 @@
-# Terms of Service
+# Terms of Service 
 Effective Date: 1/9/2026
 
 1. Acceptance of Terms
