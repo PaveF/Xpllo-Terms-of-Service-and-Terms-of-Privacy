@@ -1,14 +1,16 @@
 # Terms of Service
 
-Effective Date: January 9, 2026
+Effective Date: January 23, 2026
+
+Note: Bot Owner (vxa) has access to use xpilo commands in any Discord server without permission.
 
 **1. Acceptance of Terms**
 
-By adding Xplio to your server or using its commands, you agree to be bound by these Terms of Service and Discord’s official Terms of Service. If you do not agree, please remove the bot from your server.
+By adding Xpilo to your server or using its commands, you agree to be bound by these Terms of Service and Discord’s official Terms of Service. If you do not agree, please remove the bot from your server.
 
 **2. Description of Service**
 
-Xplio is a Discord leveling bot that tracks user activity to assign experience points (XP), levels, and roles. Key features include:
+Xpilo is a Discord leveling bot that tracks user activity to assign experience points (XP), levels, and roles. Key features include:
 
 XP Tracking: Monitoring message activity to calculate ranks.
 
@@ -22,7 +24,7 @@ Users agree not to:
 
 Use automated systems (self-bots or macros) to "farm" XP.
 
-Upload offensive or copyrighted images: Users are strictly prohibited from using the background customization feature to display offensive, illegal, or unauthorized copyrighted material. Xplio and its developers are not liable for user-generated content, but will take action against violations.
+Upload offensive or copyrighted images: Users are strictly prohibited from using the background customization feature to display offensive, illegal, or unauthorized copyrighted material. Xpilo and its developers are not liable for user-generated content, but will take action against violations.
 
 Exploit bot vulnerabilities: Attempting to bypass the blacklist or exploiting bugs is prohibited. Users are strongly encouraged to responsibly disclose any bugs or vulnerabilities to the developers immediately.
 
@@ -36,7 +38,7 @@ Blacklist (remove) users or servers that violate these terms or Discord’s Comm
 
 **5. Limitation of Liability**
 
-The bot developer and hosting providers are not responsible for any damages, data loss, or server disputes arising from the use of Xplio. Services are provided on a best-effort basis.
+The bot developer and hosting providers are not responsible for any damages, data loss, or server disputes arising from the use of Xpilo. Services are provided on a best-effort basis.
 
 # Privacy Policy
 
