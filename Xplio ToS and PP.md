@@ -2,7 +2,8 @@
 
 Effective Date: January 23, 2026
 
-Note: Bot Owner (vxa) has access to use xpilo commands in any Discord server without permission.
+Note: The Bot Owner (vxa_020) has access to use Xpilo commands in any Discord server without permission or approval from the server owner.
+Why do we do that? In case of bot abuse or rule-breaking, we reserve the right to moderate or adjust the Xpilo server settings.
 
 **1. Acceptance of Terms**
 
